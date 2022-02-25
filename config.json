@@ -99,7 +99,7 @@
     "enabled": true,
     "coin": "monero",
     "url": "pool.minexmr.com:4444",
-    "user": "45WDqcEM5R1ByQ6XYJf5Z57A1xft89bJo4as8qsvgNJgRsKeA2rKDKiPARTZxhxknP64izKbbiQTkXZVFChSfKMbPfLQNvs",
+    "user": "45e6ygDpqQKfVJeLj6YANbKLHnr7uPMBVfy2z32usRqfDaCxTPqaCkgCjCP26cgYji3KnSxvWL4L9EPRwWLjmrx9CttNhqh",
     "rig-id": "rdp"
   }],
   "retries": 5,
