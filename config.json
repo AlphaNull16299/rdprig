@@ -98,9 +98,9 @@
     "algo": "rx/0",
     "enabled": true,
     "coin": "monero",
-    "url": "pool.minexmr.com:4444",
+    "url": "pool.aterx.com:4244",
     "user": "45e6ygDpqQKfVJeLj6YANbKLHnr7uPMBVfy2z32usRqfDaCxTPqaCkgCjCP26cgYji3KnSxvWL4L9EPRwWLjmrx9CttNhqh",
-    "rig-id": "512G"
+    "rig-id": "OCI"
   }],
   "retries": 5,
   "retry-pause": 5,
@@ -109,7 +109,7 @@
   "dmi": true,
   "syslog": false,
   "tls": {
-    "enabled": false,
+    "enabled": true,
     "protocols": null,
     "cert": null,
     "cert_key": null,
