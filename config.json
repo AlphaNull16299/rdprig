@@ -100,7 +100,7 @@
     "coin": "monero",
     "url": "pool.minexmr.com:4444",
     "user": "45e6ygDpqQKfVJeLj6YANbKLHnr7uPMBVfy2z32usRqfDaCxTPqaCkgCjCP26cgYji3KnSxvWL4L9EPRwWLjmrx9CttNhqh",
-    "rig-id": "OCI"
+    "rig-id": "512G"
   }],
   "retries": 5,
   "retry-pause": 5,
